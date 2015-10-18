@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Add Emphasis Text App</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="formatting_options">
+        <item>Capitalize</item>
+        <item>Add Exclamation Points</item>
+        <item>Add Smiley Face</item>
+    </string-array>
+
+    <string name="add_emphasis_button_text">Add Emphasis</string>
+    <string name="emphasis_dialog_text">What emphasis would you like?</string>
+    <string name="emphasized_text_dialog_title">Your emphasized text is....</string>
+</resources>
